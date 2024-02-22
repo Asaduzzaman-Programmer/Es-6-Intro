@@ -6,3 +6,11 @@ console.log(numbers)
 
 numbers.push(4, 8, 9);
 console.log(numbers)
+
+const student = {
+    name: "moyna pakhi",
+    Result: "failed"
+}
+console.log(student.Result)
+console.log(student.name)
+
